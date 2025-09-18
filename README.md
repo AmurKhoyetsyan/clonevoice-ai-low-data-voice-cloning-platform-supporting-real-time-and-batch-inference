@@ -40,10 +40,8 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
     </tbody>
 </table>
 
-
-
 <div style="width: 500px;">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/2624294f-6411-43ac-91b8-a70c13ac4da3" controls preload>
     Your browser does not support the video tag.
 </video>
 </div>
